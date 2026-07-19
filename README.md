@@ -6,8 +6,8 @@ Fluffy Mod Manager is a lightweight and easy-to-use RE Engine **game mod manager
 
 ### Latest Release
 
-- 💾 **Latest Release:** `*Latest Release as of now*`
-- 🔗 [**Releases Page:**](https://github.com/Nitinsharma03/Fluffy-Mod-Manager/releases)
+- 💾 **Latest Release:**
+- [🔗 **Releases Page**](https://github.com/Nitinsharma03/Fluffy-Mod-Manager/releases)
 
 ---
 
